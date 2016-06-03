@@ -1,1 +1,1 @@
-# PHP Style Guide | Crane ![Crane](http://crane.is/assets/img/crane.png)
+# PHP Style Guide | ![Crane](http://crane.is/assets/img/crane.png)
