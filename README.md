@@ -1,6 +1,14 @@
-# ====== ![Crane](http://crane.is/assets/img/crane.png) ======
+# ![Crane](http://crane.is/assets/img/crane.png)
 
-## Styleguide
+## About
 
-* <big>**[PHP](/Php.md)**</big>
+Here the [Crane][^1] always seek the best techniques to develop our work.
+
+### Styleguides
+
+* <big>**[PHP](/PHP.md)**</big>
 * <big>**[Javascript](/Javascript.md)**</big>
+
+**Make with love by developers**
+
+[^1]:(http://crane.is/)
