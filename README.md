@@ -1,3 +1,6 @@
-#Style Guide | ![Crane](http://crane.is/assets/img/crane.png)
+# ====== ![Crane](http://crane.is/assets/img/crane.png) ======
 
-## Introduction
+## Styleguide
+
+* <big>**[PHP](/Php.md)**</big>
+* <big>**[Javascript](/Javascript.md)**</big>
